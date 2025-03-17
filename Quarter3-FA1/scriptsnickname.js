@@ -1,0 +1,1 @@
+let nickname = prompt("Enter your nickname:");
